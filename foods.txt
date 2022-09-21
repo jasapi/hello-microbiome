@@ -3,3 +3,4 @@ kimchi
 sauerkraut
 yogurt
 salami
+cheese
